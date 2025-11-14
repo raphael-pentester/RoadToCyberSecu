@@ -8,7 +8,8 @@ Je me forme en autodidacte pour devenir pentester freelance.
 - Faire mes premiers CTF (TryHackMe)
 
 ## mini Projets / Avancement ( python)
-- [ ] Projet 1 : Mini calculatrice
+- [x] Projet 1 : Mini calculatrice
 - [ ] projet 2 : Jeu du nombre mystère
 
 Dernière mise à jour : 2025 - 11 - 13
+
